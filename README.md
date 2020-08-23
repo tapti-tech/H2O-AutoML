@@ -1,3 +1,7 @@
+AutoML is and apply automatic machine learning to a business analytics problem with the H2O AutoML interface in Python. H2O's AutoML automates the process of training and tuning a large selection of models, allowing the user to focus on other aspects of the data science and machine learning pipeline such as data pre-processing, feature engineering and model deployment.
+
+For a brief introduction to AutoML, please take a few minutes to read ![The different flavors of AutoML](https://www.h2o.ai/blog/the-different-flavors-of-automl/) by ![Erin LeDell](https://dlab.berkeley.edu/people/erin-ledell), the Chief Machine Learning Scientist at H2O.ai. For a more detailed coverage of H2O's AutoML, I encourage you to read Parul Pandey's fanastic ![Deep Dive Into H2O's AutoML](https://www.h2o.ai/blog/a-deep-dive-into-h2os-automl/). ![Parul ](https://medium.com/@parulnith) is a data scientist at H2O.ai and the First Indian Woman Kaggle Grandmaster in the Kernel Category!
+
 
 ## Who is H2O.ai?
 H2O.ai company aims to create open-source machine learning products to make machine learning accessible and allow users to extract insights from data, without needing expertise in deploying or tuning machine learning models. They provide a range of products like 
